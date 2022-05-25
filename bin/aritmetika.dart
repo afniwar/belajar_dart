@@ -1,6 +1,6 @@
 void main(List<String> args) {
   int a = 10, b = 2;
-  double c = 20.0;
+  double c = 10.0;
   int e = 15;
 
   print('$a + $b = ${a + b}');
